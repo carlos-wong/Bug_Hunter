@@ -5,12 +5,14 @@
   "dependencies": {
     "antd": "^3.4.4",
     "axios": "^0.18.0",
+    "codemirror": "^5.37.0",
     "loglevel": "^1.6.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-list-view": "^1.0.0",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.1",
+    "react-simplemde-editor": "^3.6.14",
     "searchkit": "^2.3.0"
   },
   "scripts": {
